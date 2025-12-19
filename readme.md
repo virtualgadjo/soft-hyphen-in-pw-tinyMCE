@@ -2,8 +2,8 @@
 
 easier it would be almost painful, sorry, I couldn't help myself 😀
 
-<span style="color:red; font-weight: bold;">obvious, but still...</span>
-**all you need is the js file; the assets folder just contains the images that decorate the blah blah blah you're reading right now.**
+**obvious, but still...\
+all you need is the js file; the assets folder just contains the images that decorate the blah blah blah you're reading right now.**
 
 to install it in pw, put the js file where you want, e.g. /site/modules/tiny (up to you)
 then go to modules -> configure -> InputfieldTinyMCE
